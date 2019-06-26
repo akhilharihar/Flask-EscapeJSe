@@ -4,7 +4,7 @@
   Author: Akhil Harihar
   -->
 
-# flask_escapejstv
+# Flask-EscapeJSe
 ![PyPI](https://img.shields.io/pypi/v/Flask-EscapeJSe.svg)
 [![Build Status](https://travis-ci.com/akhilharihar/Flask-EscapeJSe.svg?branch=master)](https://travis-ci.com/akhilharihar/Flask-EscapeJSe)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
