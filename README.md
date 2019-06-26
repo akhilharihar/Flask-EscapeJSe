@@ -5,6 +5,10 @@
   -->
 
 # flask_escapejstv
+![PyPI](https://img.shields.io/pypi/v/Flask-EscapeJSe.svg)
+[![Build Status](https://travis-ci.com/akhilharihar/Flask-EscapeJSe.svg?branch=master)](https://travis-ci.com/akhilharihar/Flask-EscapeJSe)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 Flask extension which provides a filter to escape "curly" braces `{{ }}` in Jinja templates for use in JavaScript frameworks as few Javascript frameworks use "curly" braces to display the value of an expression or variable.
 
 ## Installing
